@@ -1,5 +1,5 @@
 #binary search
-arr=[1,3,5,7,10]
+arr=[10,3,5,7,1]
 
 def binary_search(arr, x):
     low = 0
@@ -14,5 +14,5 @@ def binary_search(arr, x):
             low = mid + 1
     return -1
 
-print (binary_search(arr, 10))
+print (binary_search(arr, 7))
 
