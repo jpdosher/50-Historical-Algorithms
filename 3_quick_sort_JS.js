@@ -1,9 +1,9 @@
-//quicksort in JavaScript
+
 function quickSort(arr) {
-    if (arr.length <= 1) { //cao base
+    if (arr.length <= 1) { //caso base
         return arr;
     }
-    var pivot = arr[0];
+    var pivot = arr[Number(arr.length/2)];
     var left = [];
     var right = [];
     for (var i = 1; i < arr.length; i++) {
@@ -17,4 +17,4 @@ function quickSort(arr) {
     
 }
 
-console.log(quickSort([10, 5, 2, 3]))
+console.log(quickSort([10, 50, 2, 3, 1]))
