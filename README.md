@@ -41,19 +41,19 @@ This repository provides a curated list of 50 historical algorithms, each with a
 35. **CART (Classification And Regression Tree)**: Another decision tree generation algorithm.
 36. **Naive Bayes**: A probabilistic classifier based on Bayes' theorem.
 37. **Support Vector Machine (SVM)**: Classification and regression algorithm.
-38. **Kruskal-Wallis Test**: A non-parametric method for testing whether samples originate from the same distribution.
-39. **Fast Fourier Transform (FFT)**: Computes the discrete Fourier transform of a sequence.
-40. **Viterbi Algorithm**: Finds the most likely sequence of states in a hidden Markov model.
-41. **Longest Common Subsequence (LCS)**: Finds the longest subsequence common to two sequences.
-42. **Levenshtein Distance Algorithm**: Calculates the minimum number of edits required to transform one string into another.
-43. **Floyd's Cycle Detection Algorithm**: Detects cycles in a sequence of values.
-44. **Timsort**: A hybrid sorting algorithm derived from merge sort and insertion sort.
-45. **Bresenham's Line Algorithm**: Determines the points of an n-dimensional raster that should be selected to form a close approximation to a straight line between two points.
-46. **Convex Hull Algorithm**: Finds the smallest convex polygon that encloses a set of points.
-47. **Recursive Backtracking**: A method for solving problems recursively by trying partial solutions and then abandoning them if they do not lead to a valid solution.
-48. **Z-Algorithm**: Finds occurrences of a pattern in a text in linear time.
-49. **Booth's Algorithm**: Multiplies two signed binary numbers in two's complement notation.
-50. **Reservoir Sampling Algorithm**: Randomly selects a sample of k items from a list of n items.
+38. **Kruskal-Wallis Test**: A non-parametric method for testing whether samples originate from the same distribution. 📊
+39. **Fast Fourier Transform (FFT)**: Computes the discrete Fourier transform of a sequence. 🔄
+40. **Viterbi Algorithm**: Finds the most likely sequence of states in a hidden Markov model. 🔍
+41. **Longest Common Subsequence (LCS)**: Finds the longest subsequence common to two sequences. 🔗
+42. **Levenshtein Distance Algorithm**: Calculates the minimum number of edits required to transform one string into another. ✏️
+43. **Floyd's Cycle Detection Algorithm**: Detects cycles in a sequence of values. 🔄
+44. **Timsort**: A hybrid sorting algorithm derived from merge sort and insertion sort. 📊
+45. **Bresenham's Line Algorithm**: Determines the points of an n-dimensional raster that should be selected to form a close approximation to a straight line between two points. 📏
+46. **Convex Hull Algorithm**: Finds the smallest convex polygon that encloses a set of points. 🔺
+47. **Recursive Backtracking**: A method for solving problems recursively by trying partial solutions and then abandoning them if they do not lead to a valid solution. 🔄
+48. **Z-Algorithm**: Finds occurrences of a pattern in a text in linear time. 🔍
+49. **Booth's Algorithm**: Multiplies two signed binary numbers in two's complement notation. ✖️
+50. **Reservoir Sampling Algorithm**: Randomly selects a sample of k items from a list of n items. 🎲
 
 ## License
 
